@@ -8,5 +8,6 @@
 </head>
 <body>
 	<%response.sendRedirect("frame/homepage.html"); %>
+	<p>Ahihi</p>
 </body>
 </html>
